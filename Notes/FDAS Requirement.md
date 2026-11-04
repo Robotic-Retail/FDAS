@@ -1,9 +1,5 @@
 # Fire Detection and Alarm System (FDAS) Requirement for Industrial Zone Buildings – Philippines (RA 9514)
 
-## TL;DR
-
-No need for an automatic FDAS and a Fire Alarm Control Panel (FACP); a manual fire alarm system is fine. 
-
 ## 1. General Rule
 
 Under **RA 9514 (Fire Code of the Philippines)** and its **2019 RIRR**, an **approved automatic fire detection and alarm system** (which requires an FACP) is required for all industrial occupancies.
