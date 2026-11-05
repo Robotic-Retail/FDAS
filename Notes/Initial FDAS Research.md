@@ -1,3 +1,5 @@
+> This file summarizes the initial research into FDAS requirements. However, it is best to rely on the results of the BFP consultation.
+
 # Fire Detection and Alarm System (FDAS) Requirement for Industrial Zone Buildings – Philippines (RA 9514)
 
 ## 1. General Rule
